@@ -1,8 +1,18 @@
-Aplikasi Client dan Server Menggunakan JAVA
+# Aplikasi untuk membaca file text pada server melalui client.
+# Imam Kurniawan
 
-Cara Penggunaan
-Server: gunakan cmd
-perintah : java simpleServer02 <PORT>
+# Aplikasi di server
+serverImam.class
+serverImam.java
+untuk menjalankan server
+- melalui terminal
+- masuk ke path aplikasi
+- ketik: java serverImam <PORT>
 
-Client: gunakan cmd
-perintah : java simpleClient02 <SERVER_IP> <PORT> <MESSAGE>
+# Aplikasi di client
+clientImam.class
+clientImam.java
+untuk menjalankan
+- melalui terminal
+- masuk ke path aplikasi
+- ketik: java clientImam <IP_SERVER> <REMOTE_PORT> <PESAN>
